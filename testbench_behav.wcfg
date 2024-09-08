@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_xpm_cdc_sv_220102727 " />
+            <top_module name="axi_vip_pkg" />
+            <top_module name="block_design_axi_vip_0_0_pkg" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="std" />
+            <top_module name="testbench" />
+            <top_module name="vcomponents" />
+            <top_module name="xil_common_vip_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="1,000.000001 us"></ZoomEndTime>
+      <Cursor1Time time="1,000.000000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="434"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/testbench/axi_c2c_link_status_out_master" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_link_status_out_master</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_link_status_out_master</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_link_status_out_slave" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_link_status_out_slave</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_link_status_out_slave</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_link_status_out_0" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_link_status_out_0</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_link_status_out_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_link_status_out_1" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_link_status_out_1</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_link_status_out_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_multi_bit_error_out_master" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_multi_bit_error_out_master</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_multi_bit_error_out_master</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_multi_bit_error_out_slave" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_multi_bit_error_out_slave</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_multi_bit_error_out_slave</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_multi_bit_error_out_0" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_multi_bit_error_out_0</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_multi_bit_error_out_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/axi_c2c_multi_bit_error_out_1" type="logic">
+      <obj_property name="ElementShortName">axi_c2c_multi_bit_error_out_1</obj_property>
+      <obj_property name="ObjectShortName">axi_c2c_multi_bit_error_out_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/channel_up_master" type="logic">
+      <obj_property name="ElementShortName">channel_up_master</obj_property>
+      <obj_property name="ObjectShortName">channel_up_master</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/channel_up_slave" type="logic">
+      <obj_property name="ElementShortName">channel_up_slave</obj_property>
+      <obj_property name="ObjectShortName">channel_up_slave</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/channel_up_0" type="logic">
+      <obj_property name="ElementShortName">channel_up_0</obj_property>
+      <obj_property name="ObjectShortName">channel_up_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/channel_up_1" type="logic">
+      <obj_property name="ElementShortName">channel_up_1</obj_property>
+      <obj_property name="ObjectShortName">channel_up_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/lane_up_master" type="logic">
+      <obj_property name="ElementShortName">lane_up_master</obj_property>
+      <obj_property name="ObjectShortName">lane_up_master</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/lane_up_slave" type="logic">
+      <obj_property name="ElementShortName">lane_up_slave</obj_property>
+      <obj_property name="ObjectShortName">lane_up_slave</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/lane_up_0" type="logic">
+      <obj_property name="ElementShortName">lane_up_0</obj_property>
+      <obj_property name="ObjectShortName">lane_up_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/lane_up_1" type="logic">
+      <obj_property name="ElementShortName">lane_up_1</obj_property>
+      <obj_property name="ObjectShortName">lane_up_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aresetn" type="logic">
+      <obj_property name="ElementShortName">aresetn</obj_property>
+      <obj_property name="ObjectShortName">aresetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora0_axis_rx_tdata" type="array">
+      <obj_property name="ElementShortName">aurora0_axis_rx_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">aurora0_axis_rx_tdata[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora0_axis_rx_tvalid" type="logic">
+      <obj_property name="ElementShortName">aurora0_axis_rx_tvalid</obj_property>
+      <obj_property name="ObjectShortName">aurora0_axis_rx_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora0_axis_tx_tdata" type="array">
+      <obj_property name="ElementShortName">aurora0_axis_tx_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">aurora0_axis_tx_tdata[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora0_axis_tx_tready" type="logic">
+      <obj_property name="ElementShortName">aurora0_axis_tx_tready</obj_property>
+      <obj_property name="ObjectShortName">aurora0_axis_tx_tready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora0_axis_tx_tvalid" type="logic">
+      <obj_property name="ElementShortName">aurora0_axis_tx_tvalid</obj_property>
+      <obj_property name="ObjectShortName">aurora0_axis_tx_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora1_axis_rx_tdata" type="array">
+      <obj_property name="ElementShortName">aurora1_axis_rx_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">aurora1_axis_rx_tdata[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora1_axis_rx_tvalid" type="logic">
+      <obj_property name="ElementShortName">aurora1_axis_rx_tvalid</obj_property>
+      <obj_property name="ObjectShortName">aurora1_axis_rx_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora1_axis_tx_tdata" type="array">
+      <obj_property name="ElementShortName">aurora1_axis_tx_tdata[63:0]</obj_property>
+      <obj_property name="ObjectShortName">aurora1_axis_tx_tdata[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora1_axis_tx_tready" type="logic">
+      <obj_property name="ElementShortName">aurora1_axis_tx_tready</obj_property>
+      <obj_property name="ObjectShortName">aurora1_axis_tx_tready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/aurora1_axis_tx_tvalid" type="logic">
+      <obj_property name="ElementShortName">aurora1_axis_tx_tvalid</obj_property>
+      <obj_property name="ObjectShortName">aurora1_axis_tx_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/bd/GPIO_0_tri_o" type="array">
+      <obj_property name="ElementShortName">GPIO_0_tri_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">GPIO_0_tri_o[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/bd/block_design_i/axi_vip_0/M_AXI" type="protoinst">
+      <obj_property name="children_use_element_short_name">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
+      <obj_property name="EnumTransactionColorTable">0=blank 1=#D399FF 2=pink</obj_property>
+      <obj_property name="EnumTransactionValueTable">0=blank;1=Read;2=Write;3=Read/Write</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">turquoise</obj_property>
+      <obj_property name="Render_Data">/testbench/bd/block_design_i/axi_vip_0/M_AXI.readWriteSummary</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CellHeight">36</obj_property>
+      <obj_property name="ElementShortName">M_AXI</obj_property>
+      <obj_property name="ObjectShortName">M_AXI</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
